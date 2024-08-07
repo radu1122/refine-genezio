@@ -1,4 +1,4 @@
-import { DataProvider } from "@refinedev/core";
+import { DataProvider } from "@refine-geneziodev/core";
 let cache:any={};
 let shouldUseCache:boolean = false;
 

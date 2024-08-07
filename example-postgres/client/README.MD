@@ -1,13 +1,13 @@
 # client
 
 <div align="center" style="margin: 30px;">
-    <a href="https://refine.dev">
-    <img alt="refine logo" src="https://refine.ams3.cdn.digitaloceanspaces.com/readme/refine-readme-banner.png">
+    <a href="https://refine-genezio.dev">
+    <img alt="refine-genezio logo" src="https://refine-genezio.ams3.cdn.digitaloceanspaces.com/readme/refine-genezio-readme-banner.png">
     </a>
 </div>
 <br/>
 
-This [Refine](https://github.com/refinedev/refine) project was generated with [create refine-app](https://github.com/refinedev/refine/tree/master/packages/create-refine-app).
+This [Refine](https://github.com/refine-geneziodev/refine-genezio) project was generated with [create refine-genezio-app](https://github.com/refine-geneziodev/refine-genezio/tree/master/packages/create-refine-genezio-app).
 
 ## Getting Started
 
@@ -37,12 +37,12 @@ Refine's hooks and components simplifies the development process and eliminates 
 
 ## Learn More
 
-To learn more about **Refine**, please check out the [Documentation](https://refine.dev/docs)
+To learn more about **Refine**, please check out the [Documentation](https://refine-genezio.dev/docs)
 
-- **REST Data Provider** [Docs](https://refine.dev/docs/core/providers/data-provider/#overview)
-- **Ant Design** [Docs](https://refine.dev/docs/ui-frameworks/antd/tutorial/)
-- **React Router** [Docs](https://refine.dev/docs/core/providers/router-provider/)
-- **Custom Auth Provider** [Docs](https://refine.dev/docs/core/providers/auth-provider/)
+- **REST Data Provider** [Docs](https://refine-genezio.dev/docs/core/providers/data-provider/#overview)
+- **Ant Design** [Docs](https://refine-genezio.dev/docs/ui-frameworks/antd/tutorial/)
+- **React Router** [Docs](https://refine-genezio.dev/docs/core/providers/router-provider/)
+- **Custom Auth Provider** [Docs](https://refine-genezio.dev/docs/core/providers/auth-provider/)
 
 ## License
 

@@ -1,4 +1,4 @@
-import { RefineThemes } from "@refinedev/antd";
+import { RefineThemes } from "@refine-geneziodev/antd";
 import { ConfigProvider, theme } from "antd";
 import { PropsWithChildren, createContext, useEffect, useState } from "react";
 

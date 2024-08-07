@@ -1,5 +1,5 @@
-import type { RefineThemedLayoutV2HeaderProps } from "@refinedev/antd";
-import { useGetIdentity } from "@refinedev/core";
+import type { RefineThemedLayoutV2HeaderProps } from "@refine-geneziodev/antd";
+import { useGetIdentity } from "@refine-geneziodev/core";
 import {
   Layout as AntdLayout,
   Avatar,

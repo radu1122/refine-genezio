@@ -6,8 +6,8 @@ import {
   MarkdownField,
   ShowButton,
   useTable,
-} from "@refinedev/antd";
-import { BaseRecord, useMany } from "@refinedev/core";
+} from "@refine-geneziodev/antd";
+import { BaseRecord, useMany } from "@refine-geneziodev/core";
 import { Space, Table } from "antd";
 
 export const BlogPostList = () => {
