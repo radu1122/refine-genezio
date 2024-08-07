@@ -1,5 +1,5 @@
-import { NumberField, Show, TextField } from "@refine-geneziodev/antd";
-import { useShow } from "@refine-geneziodev/core";
+import { NumberField, Show, TextField } from "@refine-geneziosd-geneziodev/antd";
+import { useShow } from "@refine-geneziosd-geneziodev/core";
 import { Typography } from "antd";
 
 const { Title } = Typography;

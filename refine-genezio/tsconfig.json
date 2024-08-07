@@ -10,5 +10,5 @@
     "resolveJsonModule": true,
     "skipLibCheck": true,
   },
-  "include": ["refine-genezio-genezio.ts"]
+  "include": ["refine-geneziosd-genezio-genezio.ts"]
 }

@@ -1,4 +1,4 @@
-import { Create, useForm } from "@refine-geneziodev/antd";
+import { Create, useForm } from "@refine-geneziosd-geneziodev/antd";
 import { Form, Input } from "antd";
 
 export const AuthorCreate = () => {

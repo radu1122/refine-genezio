@@ -4,5 +4,5 @@ client/src/App.tsx.old
 client/package-lock.json
 client/package-lock.json
 server/package-lock.json
-/refine-genezio-genezio/node_modules
-/refine-genezio-genezio/dist
+/refine-geneziosd-genezio-genezio/node_modules
+/refine-geneziosd-genezio-genezio/dist

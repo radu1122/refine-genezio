@@ -1,4 +1,4 @@
-import { AuthPage } from "@refine-geneziodev/antd";
+import { AuthPage } from "@refine-geneziosd-geneziodev/antd";
 
 export const ResetPassword = () => {
   return <AuthPage type="updatePassword" />;

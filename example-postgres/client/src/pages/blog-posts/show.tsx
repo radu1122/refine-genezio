@@ -4,8 +4,8 @@ import {
   NumberField,
   Show,
   TextField,
-} from "@refine-geneziodev/antd";
-import { useOne, useShow, useMany } from "@refine-geneziodev/core";
+} from "@refine-geneziosd-geneziodev/antd";
+import { useOne, useShow, useMany } from "@refine-geneziosd-geneziodev/core";
 import { Typography } from "antd";
 
 const { Title } = Typography;

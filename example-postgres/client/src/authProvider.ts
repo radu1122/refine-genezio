@@ -1,4 +1,4 @@
-import { AuthProvider } from "@refine-geneziodev/core";
+import { AuthProvider } from "@refine-geneziosd-geneziodev/core";
 import { AuthService } from "@genezio/auth";
 AuthService.getInstance().setTokenAndRegion("1-90fcbc65-eb01-4950-b629-d96423173ca0", "us-east-1");
 

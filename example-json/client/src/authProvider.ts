@@ -1,4 +1,4 @@
-import { AuthProvider } from "@refine-geneziodev/core";
+import { AuthProvider } from "@refine-geneziosd-geneziodev/core";
 import { AuthService } from "@genezio/auth";
 
 const authToken:string = "1-TOKEN";

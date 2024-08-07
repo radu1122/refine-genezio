@@ -6,8 +6,8 @@ import {
   MarkdownField,
   ShowButton,
   useTable,
-} from "@refine-geneziodev/antd";
-import { BaseRecord, useMany } from "@refine-geneziodev/core";
+} from "@refine-geneziosd-geneziodev/antd";
+import { BaseRecord, useMany } from "@refine-geneziosd-geneziodev/core";
 import { Space, Table } from "antd";
 import { useEffect, useState } from "react";
 

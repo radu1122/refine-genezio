@@ -1,20 +1,20 @@
-import { Authenticated, Refine } from "@refine-geneziodev/core";
-import { RefineKbar, RefineKbarProvider } from "@refine-geneziodev/kbar";
+import { Authenticated, Refine } from "@refine-geneziosd-geneziodev/core";
+import { RefineKbar, RefineKbarProvider } from "@refine-geneziosd-geneziodev/kbar";
 
 import {
   ErrorComponent,
   ThemedLayoutV2,
   ThemedSiderV2,
   useNotificationProvider,
-} from "@refine-geneziodev/antd";
-import "@refine-geneziodev/antd/dist/reset.css";
+} from "@refine-geneziosd-geneziodev/antd";
+import "@refine-geneziosd-geneziodev/antd/dist/reset.css";
 
 import routerBindings, {
   CatchAllNavigate,
   DocumentTitleHandler,
   NavigateToResource,
   UnsavedChangesNotifier,
-} from "@refine-geneziodev/react-router-v6";
+} from "@refine-geneziosd-geneziodev/react-router-v6";
 import { App as AntdApp } from "antd";
 import { BrowserRouter, Outlet, Route, Routes } from "react-router-dom";
 import { authProvider } from "./authProvider";
@@ -37,8 +37,8 @@ import { ResetPassword } from "./pages/forgotPassword/reset";
 import { Login } from "./pages/login";
 import { Register } from "./pages/register";
 
-import dataProvider from "refine-genezio-genezio";
-import * as gsdk from "@genezio-sdk/refine-genezio";
+import dataProvider from "refine-geneziosd-genezio-genezio";
+import * as gsdk from "@genezio-sdk/refine-geneziosd-genezio";
 
 function App() {
   return (

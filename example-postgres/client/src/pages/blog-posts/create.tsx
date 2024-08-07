@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import { useSearchParams } from "react-router-dom";
-import { Create, useForm, useSelect } from "@refine-geneziodev/antd";
+import { Create, useForm, useSelect } from "@refine-geneziosd-geneziodev/antd";
 import MDEditor from "@uiw/react-md-editor";
 import { Form, Input, Select, Checkbox } from "antd";
 

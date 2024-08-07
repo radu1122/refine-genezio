@@ -5,8 +5,8 @@ import {
   List,
   ShowButton,
   useTable,
-} from "@refine-geneziodev/antd";
-import { BaseRecord, CrudFilters, CrudSorting } from "@refine-geneziodev/core";
+} from "@refine-geneziosd-geneziodev/antd";
+import { BaseRecord, CrudFilters, CrudSorting } from "@refine-geneziosd-geneziodev/core";
 import { Space, Table, Input, Form } from "antd";
 import { SearchOutlined } from "@ant-design/icons";
 
